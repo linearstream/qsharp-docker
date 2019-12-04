@@ -10,8 +10,6 @@
 # REFERENCES:
 #   This Makefile was based on:
 #   - https://blog.container-solutions.com/tagging-docker-images-the-right-way
-#
-# TODO: Investigate using Jenkins instead for staged releases
 
 MK_AT  := @
  
